@@ -36,6 +36,8 @@ Power Query: Utilized Power Query for cleaning and structuring raw data.
 
   ### Key Insights Delivered
 
+  ---
+
 
 
 **Demographics:**
