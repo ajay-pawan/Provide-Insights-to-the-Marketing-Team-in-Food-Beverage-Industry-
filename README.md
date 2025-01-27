@@ -30,6 +30,8 @@ Power Query: Utilized Power Query for cleaning and structuring raw data.
 ![Untitled design](https://github.com/user-attachments/assets/b333ba17-f37d-4c80-aa51-19016675ba8b)
 
 
+ [Compelete Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYTBlOTE0YzctMmRhZi00YjE5LWJiZGMtYTg5MDNkMmY1MDNlIiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9)
+
 
 
   ### Key Insights Delivered
