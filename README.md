@@ -65,6 +65,7 @@ Highlighted gaps and opportunities for differentiation.
 ---
 
 **Demographics Dashboard:**
+
 Displays detailed segmentation by age, gender, income, and location.
 
 **Customer Preferences Dashboard:**
@@ -72,12 +73,15 @@ Displays detailed segmentation by age, gender, income, and location.
 Insights into preferred flavors, product expectations, and caffeine demands.
 
 **Competition Analysis Dashboard:**
+
 Comparative performance metrics of competitors in terms of sales, pricing, and customer perception.
 
 **Marketing Preferences Dashboard:**
+
 Analysis of marketing channels and effectiveness, including digital campaigns and regional promotions.
 
 **Purchase Behavior Dashboard:**
+
 Patterns in customer purchase frequency and factors influencing buying decisions.
 
 **Product Development Dashboard:**
@@ -85,4 +89,5 @@ Patterns in customer purchase frequency and factors influencing buying decisions
 Focused on customer feedback for improving product features and addressing health concerns.
 
 **CodeX Performance Dashboard:**
+
 Consolidates overall performance metrics for strategic decision-making.
