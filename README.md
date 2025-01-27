@@ -25,6 +25,13 @@ DAX :For custom measures and enhanced interactivity.
 
 Power Query: Utilized Power Query for cleaning and structuring raw data.
 
+### Dashboard Design
+
+![Untitled design](https://github.com/user-attachments/assets/b333ba17-f37d-4c80-aa51-19016675ba8b)
+
+
+
+
   ### Key Insights Delivered
 
 
